@@ -8,9 +8,13 @@
 
 ## English
 
+### Screenshot
+
+![2048 — start screen](docs/screenshot.png)
+
 ### About
 
-A single-file browser implementation of the classic 2048 sliding-tile puzzle.
+A single-file browser implementation of the classic 2048 sliding-tile puzzle — everything (markup, styling, and game logic) lives in `index.html`.
 
 ### Tech Stack
 
@@ -28,9 +32,13 @@ npx serve .
 
 ## فارسی
 
+### تصویر
+
+![۲۰۴۸ — صفحه‌ی شروع](docs/screenshot.png)
+
 ### درباره
 
-یک پیاده‌سازی تک‌فایلی از پازل کلاسیک ۲۰۴۸ در مرورگر.
+یک پیاده‌سازی تک‌فایلی از پازل کلاسیک ۲۰۴۸ در مرورگر — همه‌چیز (مارک‌آپ، استایل و منطق بازی) داخل `index.html` قرار دارد.
 
 ### پشته فناوری
 
